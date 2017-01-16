@@ -61,5 +61,3 @@ TTT 2
 TTC 2
 TAT 2
 TAC 2
-: 1
-coding 1
