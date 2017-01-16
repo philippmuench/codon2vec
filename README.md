@@ -1,5 +1,5 @@
 # codon2vec
-Vector representations of codons
+Vector representations of codons, can be used to optimize RNN learning tasks.
 
 Method see: https://code.google.com/archive/p/word2vec/
 
