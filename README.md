@@ -1,5 +1,6 @@
 # codon2vec
 Vector representations of codons
+
 Method see: https://code.google.com/archive/p/word2vec/
 
 Trained on codon table (raw_input.txt) with hierachical softmax.
